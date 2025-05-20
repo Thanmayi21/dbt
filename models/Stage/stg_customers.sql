@@ -11,4 +11,4 @@ select
 from customer
 )
  
-select * from customers
+select * from customer
